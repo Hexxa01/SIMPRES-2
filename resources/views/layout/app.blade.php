@@ -406,6 +406,7 @@
             }
         }
     </style>
+    <link rel="stylesheet" href="{{ asset('simpres-final.css') }}">
     @stack('styles')
 </head>
 

@@ -194,6 +194,7 @@
             }
         }
     </style>
+    <link rel="stylesheet" href="{{ asset('simpres-final.css') }}">
 </head>
 
 <body>
